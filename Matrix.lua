@@ -1,8 +1,8 @@
 ------------------------------------------------
--- This Source Was Developed By (DaR) @FFlXlX.--
---   This Is The Source Channel @FFlXlX .   --
+-- This Source Was Developed By (DaR) @RNRYR.--
+--   This Is The Source Channel @RNRYR .   --
 --           - Source stars -                 --
---        -- https://t.me/FFlXlX --         --
+--        -- https://t.me/RNRYR --         --
 ------------------------------------------------ 
 URL     = require("./libs/url")
 JSON    = require("./libs/dkjson")
